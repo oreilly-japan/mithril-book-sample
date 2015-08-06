@@ -1,0 +1,19 @@
+{
+  "name": "polymer_bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "connect-multiparty": "^1.2.5",
+    "express": "^4.12.4",
+    "mithril": "^0.2.0"
+  }
+}

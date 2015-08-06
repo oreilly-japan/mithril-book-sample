@@ -1,0 +1,19 @@
+{
+  "name": "design_bootstrap_carousel",
+  "version": "0.0.0",
+  "authors": [
+    ""
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1",
+    "bootstrap": "~3.3.4"
+  }
+}

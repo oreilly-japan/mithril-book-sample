@@ -1,0 +1,21 @@
+{
+  "name": "design_polymer",
+  "version": "0.0.0",
+  "authors": [
+    "Yoshiki Shibukawa <shibukawa.yoshiki@dena.jp>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#0.8-preview",
+    "paper-elements": "PolymerElements/paper-elements",
+    "iron-elements": "PolymerElements/iron-elements#~0.8.0",
+    "core-elements": "Polymer/core-elements#0.8-preview"
+  }
+}

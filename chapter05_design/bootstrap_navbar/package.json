@@ -1,0 +1,21 @@
+{
+  "name": "polymer_bootstrap_navbar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-browserify": "^0.5.1",
+    "gulp-eslint": "^0.11.1",
+    "gulp-uglify": "^1.2.0"
+  },
+  "dependencies": {
+    "mithril": "^0.2.0"
+  }
+}
