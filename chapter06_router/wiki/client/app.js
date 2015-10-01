@@ -77,7 +77,7 @@ var ViewPage = {
     },
     view: function (ctrl) {
         return m("div", [
-            m("h1", this.pageName),
+            m("h1", ctrl.pageName),
             m("pre", WikiPage.tokenize(vm.page().source()).map(function (token) {
                 switch (token.type) {
                 case PlainTextType:
