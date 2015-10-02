@@ -63,7 +63,7 @@ var LoginPage = {
     },
     view: function(ctrl) {
         return m("div", [
-            m("label", {for: name}, "ユーザ名:"),
+            m("label", {for: "name"}, "ユーザ名:"),
             m("input#name[type=text]", {
                 onchange: m.withAttr("value", ctrl.name),
                 onkeypress: ctrl.onKeyPress
