@@ -16,6 +16,7 @@
     "gulp-uglify": "^1.2.0"
   },
   "dependencies": {
+    "express": "^4.12.3",
     "mithril": "^0.2.0"
   }
 }

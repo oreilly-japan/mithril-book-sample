@@ -10,6 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.14.2",
     "csv": "^0.4.2",
     "express": "^4.12.3",
     "iconv-lite": "^0.4.8",
